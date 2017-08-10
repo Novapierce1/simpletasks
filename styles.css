@@ -1,0 +1,10 @@
+body {
+    background-color: darkslateblue;
+}
+div {
+    background: whitesmoke;
+    width: 20em;
+    height: 8em;
+    display: block;
+    margin: 2em;
+}
